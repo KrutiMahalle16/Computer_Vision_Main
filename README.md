@@ -16,3 +16,8 @@ Useful for motion detection and tracking.
 Fast and efficient alternative to SIFT and SURF.
 Combines FAST keypoint detector and BRIEF descriptor.
 Suitable for real-time applications.
+
+📌 4. RANSAC (Random Sample Consensus)
+Robust algorithm to estimate geometric transformations.
+Removes outliers in feature matching.
+Used for finding homography or affine transform between images.
