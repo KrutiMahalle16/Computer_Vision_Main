@@ -21,3 +21,13 @@ Suitable for real-time applications.
 Robust algorithm to estimate geometric transformations.
 Removes outliers in feature matching.
 Used for finding homography or affine transform between images.
+
+### 🧰 Technologies Used
+Python 3.x
+
+OpenCV (cv2)
+
+NumPy
+
+Matplotlib (for visualization)
+
