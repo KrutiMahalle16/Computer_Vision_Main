@@ -5,7 +5,5 @@ A comprehensive collection of feature detection and matching algorithms using Op
 ### 🔧 Algorithms Implemented
 📌 1. SIFT (Scale-Invariant Feature Transform)
 Detects and describes local features in images.
-
 Invariant to scale and rotation.
-
 Produces distinctive and reliable keypoints.
