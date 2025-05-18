@@ -14,7 +14,5 @@ Useful for motion detection and tracking.
 
 📌 3. ORB (Oriented FAST and Rotated BRIEF)
 Fast and efficient alternative to SIFT and SURF.
-
 Combines FAST keypoint detector and BRIEF descriptor.
-
 Suitable for real-time applications.
