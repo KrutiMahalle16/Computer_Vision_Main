@@ -7,3 +7,7 @@ A comprehensive collection of feature detection and matching algorithms using Op
 Detects and describes local features in images.
 Invariant to scale and rotation.
 Produces distinctive and reliable keypoints.
+
+📌 2. Harris Corner Detection
+Identifies corner points where intensity changes in all directions.
+Useful for motion detection and tracking.
