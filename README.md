@@ -39,3 +39,7 @@ Keypoints on images
 Lines connecting matched features
 
 Resulting transformations (if applicable)
+
+## ✅ Conclusion
+This project explores fundamental feature detection and matching algorithms in computer vision. It helps build an intuitive understanding of how image correspondence and transformations work using classic methods like SIFT, Harris, ORB, and RANSAC. These concepts are crucial for applications like image stitching, 3D reconstruction, and augmented reality.
+
