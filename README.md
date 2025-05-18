@@ -31,3 +31,11 @@ NumPy
 
 Matplotlib (for visualization)
 
+### 📈 Output
+Each script displays:
+
+Keypoints on images
+
+Lines connecting matched features
+
+Resulting transformations (if applicable)
